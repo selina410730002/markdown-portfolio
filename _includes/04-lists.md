@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+:candy:
+- [ ] do homework :book: :pencil:
+hahaha:smile:
+**oh my god**
